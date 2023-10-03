@@ -4,6 +4,7 @@ Zomato Unsupervised ML analysis
 
 ### Introduction
 ============================
+
 Zomato is one of the largest food delivery app in the world. Restaurant and users from around the world enjoy different cuisines and share their reviews and experiences on this platform. Founded in 2008, Zomato has now expanded into 24 different countries and has its presence in almost 10,000 cities.
 
 Having such a large user base, it is important for this platform to make the data of restaurants presented to the users in more organised format so that users can filter restaurants based on reviews, rating, pricing etc.
@@ -16,5 +17,6 @@ Therefore we are going to we are going to explore the restaurants in Indian citi
 
 ### Shape of Datasets
 ============================
+
 The restaurant rating dataset has 105 rows and 6 columns
 The restaurant reviews dataset has 10000 rows and 7 columns
